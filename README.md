@@ -1,4 +1,4 @@
-<h1 align="center">React Todolist Fetch</h1>
+<h1 align="center">React Todolist</h1>
 
 <p align="center" >
   Simple todo list made with pure css and React, with sync to REST API
