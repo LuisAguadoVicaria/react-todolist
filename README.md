@@ -1,7 +1,7 @@
 <h1 align="center">React Todolist</h1>
 
 <p align="center" >
-  Simple todo list made with pure css and React, with sync to REST API
+  Simple todo list made with pure css and React
 </p>
 <p align="center" >
   <a href="https://luisaguadovicaria.github.io/react-todo/">
