@@ -13,7 +13,7 @@ const App = () => {
     setlist((e) => e.filter((_, i) => i !== index));
   };
 
-  const keypress = (event) => {
+  const keyHandle = (event) => {
     if (event.key === "Enter") {
       if (inputValue !== "") setlist([...list, inputValue]);
     }
@@ -40,7 +40,7 @@ const App = () => {
     <article className="paper">
       <input
         type="text"
-        onKeyUp={keypress}
+        onKeyUp={keyHandle}
         onChange={(e) => setInputValue(e.target.value)}
         value={inputValue}
         placeholder="What needs to be done?"
