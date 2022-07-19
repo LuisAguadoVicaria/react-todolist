@@ -4,7 +4,7 @@
   Simple todo list made with pure css and React
 </p>
 <p align="center" >
-  <a href="https://luisaguadovicaria.github.io/react-todo/">
+  <a href="https://luisaguadovicaria.github.io/react-todolist/">
     <img height="44px"  src="https://github.com/LuisAguadoVicaria/LuisAguadoVicaria/raw/main/proyect-images/live-demo-button.png" alt="live-demo" align="center">
   </a>
 </p>
@@ -112,7 +112,7 @@ export default App;
 
 <sub><sub>You can also open any GitHub repository in Gitpod</sub></sub> 
   
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/LuisAguadoVicaria/react-todo/)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/LuisAguadoVicaria/react-todolist/)
 
 ## Contact
 
